@@ -41,7 +41,7 @@ On the Windows build computer:
 5. In this repository, open **Releases → Draft a new release**. Create a tag such as `v1.0.0`.
 6. Upload both generated files and publish the release. The asset names must match `launcher-config.json` exactly.
 
-The actual application ZIP is not included in this source folder yet. It must be built on Windows and uploaded to a GitHub Release as described above.
+The Windows application ZIP and its SHA-256 checksum are now published in the `v1.0.0` GitHub Release. The installer checks the latest release and downloads the matching assets automatically.
 
 ## Install on another Windows PC
 
