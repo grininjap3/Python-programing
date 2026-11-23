@@ -1,0 +1,14 @@
+StudySync AI v1.0.0 — Private Beta
+
+Assets:
+- StudySyncAI-Windows.zip: complete packaged Windows application
+- StudySyncAI-Windows.zip.sha256: SHA-256 checksum for integrity verification
+
+Requirements:
+- Windows 10/11, 64-bit
+- Internet access for Google Classroom and online AI features
+- Each tester configures their own Google account and OpenAI API key
+
+Do not distribute API keys, OAuth tokens, credentials.json, databases or user data.
+
+Note: the Python-programing repository is currently public, so published release assets are publicly downloadable.
