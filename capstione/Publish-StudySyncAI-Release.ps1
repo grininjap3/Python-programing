@@ -1,5 +1,5 @@
 param(
-    [string]$DistFolder = (Join-Path $PSScriptRoot '..\..\StudySyncAI_Windows_Release_Kit_FIXED\StudySyncAI_Windows_Release_Fixed\dist'),
+    [string]$DistFolder = 'C:\Users\RAMAMOHAN&KAMAKSHI\Downloads\StudySyncAI_Windows_Release_Kit_FIXED\StudySyncAI_Windows_Release_Fixed\dist',
     [string]$Tag = 'v1.0.0'
 )
 
